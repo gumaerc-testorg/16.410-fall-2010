@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to  propositional
   logic.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-410-principles-of-autonomy-and-decision-making-fall-2010/a3e2b87e0ef790760eaae82cc8730aa6_MIT16_410F10_rec07_sol.pdf
+file: /media/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/a3e2b87e0ef790760eaae82cc8730aa6_MIT16_410F10_rec07_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: MIT16_410F10_rec07_sol.pdf
 uid: a3e2b87e-0ef7-9076-0eaa-e82cc8730aa6

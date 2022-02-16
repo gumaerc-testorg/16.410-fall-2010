@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   soundness of arc consistency algorithms and modeling using constraints.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-410-principles-of-autonomy-and-decision-making-fall-2010/6727843badb0448089e0515a6ff60655_MIT16_410F10_rec03_sol.pdf
+file: /media/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/6727843badb0448089e0515a6ff60655_MIT16_410F10_rec03_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: MIT16_410F10_rec03_sol.pdf
 uid: 6727843b-adb0-4480-89e0-515a6ff60655

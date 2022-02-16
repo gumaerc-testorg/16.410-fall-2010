@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 444bf915-4e6f-78e1-ee92-98ce47c23403
 title: Learning Objectives and Assessment
 uid: 322a780d-d8ea-9242-0ca8-736f3c1d2d81

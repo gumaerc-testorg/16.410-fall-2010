@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information related to activity planner. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-410-principles-of-autonomy-and-decision-making-fall-2010/7ae944895125a865cfe05ae848b48d0c_MIT16_410F10_project01.pdf
+file: /media/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/7ae944895125a865cfe05ae848b48d0c_MIT16_410F10_project01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT16_410F10_project01.pdf
 uid: 7ae94489-5125-a865-cfe0-5ae848b48d0c

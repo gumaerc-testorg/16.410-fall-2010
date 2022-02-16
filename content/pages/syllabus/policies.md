@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 444bf915-4e6f-78e1-ee92-98ce47c23403
 title: Course Policies
 uid: 194f7fd4-2b61-3961-a5fa-5bbbcd36b308

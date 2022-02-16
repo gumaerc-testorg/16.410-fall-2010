@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   simplex method.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-410-principles-of-autonomy-and-decision-making-fall-2010/5806e023fa4ae8b2ec7c5303ea4cebd2_MIT16_410F10_rec10_sol.pdf
+file: /media/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/5806e023fa4ae8b2ec7c5303ea4cebd2_MIT16_410F10_rec10_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: MIT16_410F10_rec10_sol.pdf
 uid: 5806e023-fa4a-e8b2-ec7c-5303ea4cebd2

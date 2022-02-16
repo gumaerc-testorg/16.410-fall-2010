@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supporting file for graphplan.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-410-principles-of-autonomy-and-decision-making-fall-2010/4ade94ea7a8a9e2284931cd99e415294_assn05.zip
+file: /media/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/4ade94ea7a8a9e2284931cd99e415294_assn05.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: assn05.zip
 uid: 4ade94ea-7a8a-9e22-8493-1cd99e415294
