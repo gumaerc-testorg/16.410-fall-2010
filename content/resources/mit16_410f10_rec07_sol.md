@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 82ec102d-e9a6-4ed1-dfb0-f47fb309f39b
 resourcetype: Document
 title: MIT16_410F10_rec07_sol.pdf
 uid: a3e2b87e-0ef7-9076-0eaa-e82cc8730aa6

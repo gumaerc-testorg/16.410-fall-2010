@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d624d5e5-e809-55c9-4390-06aea1f928bd
 resourcetype: Other
 title: ShuttleSolver.java
 uid: f42812ce-5da3-0e90-2147-121b6abeb11b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b7ef6e65-da95-7daa-011f-9eeb3d934fd9
 resourcetype: Document
 title: MIT16_410F10_mid_sol.pdf
 uid: 976a1098-b2a4-cff7-3263-fe926e251119

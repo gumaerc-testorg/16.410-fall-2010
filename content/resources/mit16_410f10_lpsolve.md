@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d624d5e5-e809-55c9-4390-06aea1f928bd
 resourcetype: Document
 title: MIT16_410F10_lpsolve.pdf
 uid: dfafe4e0-2882-dd54-6621-01a05e4a2984

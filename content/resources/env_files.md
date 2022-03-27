@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d624d5e5-e809-55c9-4390-06aea1f928bd
 resourcetype: Other
 title: env_files.zip
 uid: 04d3e9d7-c639-d579-7b86-7fb22f178c5c
