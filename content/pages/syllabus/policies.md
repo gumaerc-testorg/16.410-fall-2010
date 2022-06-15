@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides policies for programming assignments and collaborative
+  work, and comments on the workload for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

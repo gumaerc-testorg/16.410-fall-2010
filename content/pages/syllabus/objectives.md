@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the learning objectives, measurable
+  outcomes, and concepts covered in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
