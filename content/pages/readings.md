@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each session of the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4e0e2d86-5bb2-9685-b272-8f3730fb05dc
 ---
@@ -70,7 +75,7 @@ Foundations II: complexity of state space search
 
 [6.042J Lecture Notes](/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/lecture-slides): Recurrences
 
-6.046 Lecture Notes: Asymptotic analysis ([PDF]({{< baseurl >}}/resources/mit6_046f05_lec02)) (Courtesy of Erik Demaine. Used with permission.)
+6.046 Lecture Notes: Asymptotic analysis ({{% resource_link d6c1bde6-ba67-5327-20e8-83dde4a79dcb "PDF" %}}) (Courtesy of Erik Demaine. Used with permission.)
 
 
 {{< tdclose >}}
