@@ -6,6 +6,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/82acd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT16_410F10_final_sol.pdf
 uid: 82acd484-2b47-ba08-f645-6dbe373b97d1
 ---
 This resource contains solutions for the problem statements related to activity planning, proving completeness of graph plan, and model based diagnosis. 
-

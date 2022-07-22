@@ -5,6 +5,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/f4281
 file_type: text/x-java
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ShuttleSolver.java
 uid: f42812ce-5da3-0e90-2147-121b6abeb11b
 ---
 This resource is a supporting file for incomplete code.
-

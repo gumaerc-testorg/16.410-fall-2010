@@ -5,6 +5,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/d04d5
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn08.zip
 uid: d04d5bce-a2b4-2422-eff8-cc7d83beaddf
 ---
 This resource is a supporting file for ipsolve and mathematical programming.
-

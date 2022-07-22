@@ -5,6 +5,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/91c76
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT16_410F10_project.pdf
 uid: 91c76c06-e901-ca45-1bae-903bee5f02d1
 ---
 This resource contains information related to minisat solver.
-

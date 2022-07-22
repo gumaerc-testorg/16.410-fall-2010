@@ -5,6 +5,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/c8c93
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sat_solver.zip
 uid: c8c9303e-6480-6d82-2d57-36c0b0eecebb
 ---
 This resource is a supporting file for sat solver.
-

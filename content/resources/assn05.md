@@ -5,6 +5,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/4ade9
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn05.zip
 uid: 4ade94ea-7a8a-9e22-8493-1cd99e415294
 ---
 This resource is a supporting file for graphplan.
-

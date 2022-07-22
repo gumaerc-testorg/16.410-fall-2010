@@ -6,6 +6,7 @@ file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/4af26
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT16_410F10_rec11_sol.pdf
 uid: 4af2616a-71b6-4aec-47a6-a95b1f51c8f0
 ---
 This resource contains solutions for the problem statements related to mixed integer linear programming.
-
