@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to autonomy and java.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/bb2de6433300cd51b043024323091dd8_MIT16_410F10_java.pdf
+file_size: 135737
 file_type: application/pdf
 learning_resource_types:
 - Assignments

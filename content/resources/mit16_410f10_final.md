@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to activity planning,
   proving completeness of graph plan, and model based diagnosis.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/006bb6815e138480553a438c59d86c15_MIT16_410F10_final.pdf
+file_size: 316760
 file_type: application/pdf
 learning_resource_types:
 - Exams

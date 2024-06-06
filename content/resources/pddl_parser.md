@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for pddl parser.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/73602ebae361bfdc004d339ede690907_pddl_parser.zip
+file_size: 3477
 file_type: application/zip
 learning_resource_types:
 - Assignments
