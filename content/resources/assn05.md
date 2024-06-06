@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for graphplan.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/4ade94ea7a8a9e2284931cd99e415294_assn05.zip
+file_size: 187534
 file_type: application/zip
 learning_resource_types:
 - Assignments
