@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to path planner.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/350d492f39f0a9a4179acd4be1ce9696_MIT16_410F10_project02.pdf
+file_size: 624771
 file_type: application/pdf
 learning_resource_types:
 - Assignments
