@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for sat solver.
-file: /ol-ocw-studio-app/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/c8c9303e64806d822d5736c0b0eecebb_sat_solver.zip
+file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/c8c9303e64806d822d5736c0b0eecebb_sat_solver.zip
 file_size: 2129
 file_type: application/zip
 learning_resource_types:

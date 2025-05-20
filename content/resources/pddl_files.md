@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for pddl.
-file: /ol-ocw-studio-app/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/a89c04d1996cd5908c29f1441b4a2e6a_pddl_files.zip
+file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/a89c04d1996cd5908c29f1441b4a2e6a_pddl_files.zip
 file_size: 2609
 file_type: application/zip
 learning_resource_types:
