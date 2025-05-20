@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for incomplete code.
-file: /ol-ocw-studio-app/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/f42812ce5da30e902147121b6abeb11b_ShuttleSolver.java
+file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/f42812ce5da30e902147121b6abeb11b_ShuttleSolver.java
 file_size: 5603
 file_type: text/x-java
 learning_resource_types:
