@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions to the problem statements related to
   uniformed search, depth first search, and search issues. '
-file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/976a1098b2a4cff73263fe926e251119_MIT16_410F10_mid_sol.pdf
+file: /ol-ocw-studio-app/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/976a1098b2a4cff73263fe926e251119_MIT16_410F10_mid_sol.pdf
 file_size: 435130
 file_type: application/pdf
 learning_resource_types:
