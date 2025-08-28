@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource is a supporting file for incomplete code. '
-file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/073683e4ee7463a5afc4c94e29148719_assn07.zip
+file: /ol-ocw-studio-app/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/073683e4ee7463a5afc4c94e29148719_assn07.zip
 file_size: 21719
 file_type: application/zip
 learning_resource_types:

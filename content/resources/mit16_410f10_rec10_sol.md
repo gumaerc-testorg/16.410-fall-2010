@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   simplex method.
-file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/5806e023fa4ae8b2ec7c5303ea4cebd2_MIT16_410F10_rec10_sol.pdf
+file: /ol-ocw-studio-app/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/5806e023fa4ae8b2ec7c5303ea4cebd2_MIT16_410F10_rec10_sol.pdf
 file_size: 263139
 file_type: application/pdf
 learning_resource_types:
