@@ -198,7 +198,7 @@ Encoding planning problems as propositional logic satisfiability \[SK\]
 {{< tdopen >}}
 
 
-[DARPA Urban Challenge videos](http://www.ai.sri.com/~gerkey/movies/duc/)
+{{% resource_link "299496eb-8758-4f1e-8bb8-201cb0570bb0" "DARPA Urban Challenge videos" %}}
 
 ({{% resource_link e9c4749b-1dda-e7b4-ae52-5992fe27f057 "PDF - 1.1 MB" %}})
 
